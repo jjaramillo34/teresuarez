@@ -1,18 +1,18 @@
 {
     "title": "A Design Agency <br/>Delivering Success by <br/>Winning Hearts",
-    "subtitle": "Welcome to Onovo",
+    "subtitle": "Bienvenido a Tere Suarez",
     "number": {
-        "value": "25",
-        "label": "Years of Experience in Advertising"
+        "value": "35",
+        "label": "Anos de Experiencia en Publicidad"
     },
     "items": [
         {
             "title": "Our Mission",
-            "text": "From the moment our company was founded we have helped our clients find <strong>exceptional solutions for their businesses</strong> memorable brands and digital products. Our expertise grows with each year, and our accumulated experience."
+            "text": "Publicidad Tere Suarez is a pioneering advertising agency with over 25 years of excellence. Our diverse team of experts collaboratively delivers innovative and impactful campaigns. As a women-led agency, we champion diversity, equity, and inclusion, believing diverse perspectives drive exceptional results. Our founder, Tere Suarez, encapsulates this vision, making us a respected industry leader."
         },
         {
             "title": "Our Goal",
-            "text": "Our goal is to deliver amazing experiences that make people talk, and build strategic value for brands, tech, entertainment.",
+            "text": "Publicidad Tere Suarez aims to revolutionize the advertising industry by fusing innovative strategies with a commitment to diversity, equity, and inclusion, ensuring unparalleled results for our clients.",
             "button": {
                 "label": "More About Us",
                 "link": "/about"

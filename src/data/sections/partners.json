@@ -1,6 +1,6 @@
 {
     "subtitle": "Fantastic and Premium Clients",
-    "title": "We Have Had the Pleasure of <br/>Working with Some Clients",
+    "title": "Durante más de 30 años, hemos estado trabajando con marcas en Puerto Rico.",
     "items": [
         {
             "link": "https://google.com",
@@ -40,7 +40,7 @@
         {
             "link": "https://google.com",
             "label": "Visit Website",
-            "image": "/images/brand2.png"
+            "image": "/images/brand.png"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "teresuarez",
+        "siteName": "Tere Suarez",
         "preloader": true,
         "formspreeURL": "https://formspree.io/f/mpzgdjrg",
         "portfolio": {
@@ -27,7 +27,7 @@
     "header": {
         "logo": {
             "image": "/images/teresuarez.svg",
-            "image_white": "/images/logo-main.png",
+            "image_white": "/images/teresuarez.svg",
             "alt": "logo"
         },
         "menu": [
@@ -212,21 +212,21 @@
                 "alt": "image"
             }
         ],
-        "copy": "© 2023 ONOVO by <a href='https://bslthemes.com' target='blank' class='onovo-lnk lnk--white'>bslthemes Team</a>. All rights reserved."
+        "copy": "@ 2023 Tere Suarez by <a href='https://teresuarez.vercel.app/' target='blank' class='onovo-lnk lnk--white'>Tere Suarez Team</a>. All rights reserved."
     },
     "social": [
         {
-            "link": "https://facebook.com",
+            "link": "https://www.facebook.com/publicidadteresuarez",
             "icon": "fab fa-facebook",
             "title": "Facebook"
         },
         {
-            "link": "https://twitter.com",
+            "link": "https://twitter.com/Teresuarezo",
             "icon": "fab fa-twitter",
             "title": "Twitter"
         },
         {
-            "link": "https://linkedin.com",
+            "link": "https://www.linkedin.com/company/publicidad-tere-suarez",
             "icon": "fab fa-linkedin",
             "title": "Linkedin"
         }

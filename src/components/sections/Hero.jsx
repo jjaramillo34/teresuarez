@@ -50,11 +50,26 @@ const HeroSection = () => {
         <div className="container">
           <h1 className="title onovo-text-white">
             <span data-splitting data-onovo-scroll>
-              <span dangerouslySetInnerHTML={{ __html: Data.title.text }} />
+              <span
+                dangerouslySetInnerHTML={{ __html: Data.title.text }}
+                style={{
+                  fontFamily: "Montserrat",
+                  color: "#ffffff",
+                  fontSize: "1.0rem",
+                }}
+              />
               <span className="onovo-sep word">
                 <i
                   className="sep-img"
-                  style={{ backgroundImage: "url(" + Data.title.icon + ")" }}
+                  style={{
+                    backgroundImage: "url(" + Data.title.icon + ")",
+                    /// animation delay 0.5s
+                    animationDelay: "0.5s",
+                    animationDuration: "2.5s",
+                    animationTimingFunction: "ease-in-out",
+                    animationIterationCount: "infinite",
+                    animationDirection: "alternate",
+                  }}
                 />
               </span>
             </span>
@@ -66,7 +81,39 @@ const HeroSection = () => {
                   dangerouslySetInnerHTML={{ __html: Data.subtitle }}
                   style={{
                     fontFamily: "Montserrat",
+                    color: "#FFFFFF",
+                    fontSize: "4.0rem",
+                    animationDelay: "0.5s",
+                    animationDuration: "2.5s",
+                    animationTimingFunction: "ease-in-out",
+                    animationIterationCount: "infinite",
+                    animationDirection: "alternate",
+                  }}
+                />
+                <div
+                  dangerouslySetInnerHTML={{ __html: Data.subtitle2 }}
+                  style={{
+                    fontFamily: "Montserrat",
                     color: "#E2548B",
+                    fontSize: "4.0rem",
+                    animationDelay: "0.5s",
+                    animationDuration: "2.5s",
+                    animationTimingFunction: "bounce",
+                    animationIterationCount: "infinite",
+                    animationDirection: "alternate",
+                  }}
+                />
+                <div
+                  dangerouslySetInnerHTML={{ __html: Data.subtitle3 }}
+                  style={{
+                    fontFamily: "Montserrat",
+                    color: "#FFFFFF",
+                    fontSize: "4.0rem",
+                    animationDelay: "0.5s",
+                    animationDuration: "2.5s",
+                    animationTimingFunction: "fade",
+                    animationIterationCount: "infinite",
+                    animationDirection: "alternate",
                   }}
                 />
               </div>
