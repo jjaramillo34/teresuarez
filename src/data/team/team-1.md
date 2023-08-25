@@ -1,6 +1,6 @@
 ---
 #preview details
-image: /images/team1.jpg
+image: /images/team1.png
 name: Tere Suarez
 role: Art Director
 first_letter: T
