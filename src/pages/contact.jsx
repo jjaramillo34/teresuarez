@@ -300,6 +300,31 @@ const Contact = () => {
           </div>
         </div>
       </section>
+
+      {/* Onovo Map */}
+      <section className="onovo-section gap-top-140">
+        <div className="container">
+          <div className="row">
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+              {/* Map */}
+              <div className="onovo-map">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.630900547434!2d-73.987853684593!3d40.757084979328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1
+                  s0x89c259a6d0a1c2e7%3A0x2e2c0c9a3a0d9a8a!2s55%20Broadway%2C%20New%20York%2C%20NY%2010006%2C%20USA!5e0!3m2!1sen!2sbd!4v162
+                  9789959270!5m2!1sen!2sbd"
+                  width="100%"
+                  height="450"
+                  frameBorder="0"
+                  style={{ border: "0" }}
+                  allowFullScreen
+                  aria-hidden="false"
+                  tabIndex="0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </Layouts>
   );
 };
